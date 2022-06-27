@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.list-btn {
+  background-color: #382f5a;
+  border-color: #c4c4c4;
+  border-radius: 3px;
+  width: 100px;
+  padding: 3px;
+  color: #c4c4c4;
+  border-width: 1px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.listItem-div {
+  margin: 10px;
+}
