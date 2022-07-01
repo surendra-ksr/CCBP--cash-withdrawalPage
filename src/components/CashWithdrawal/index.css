@@ -9,6 +9,9 @@
   align-items: center;
   font-family: 'Roboto';
 }
+.smpl{
+  background-color: transparent;
+}
 .inner-div {
   background-color: #150b3e;
   width: 30vw;
